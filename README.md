@@ -16,10 +16,6 @@
 
 ![Metrics](./metrics.svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
 ---
 
 ## 🧠 关于我 | About Me
