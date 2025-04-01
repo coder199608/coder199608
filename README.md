@@ -14,9 +14,7 @@
 
 ## 📊 我的 GitHub 动态
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical" alt="stats" />
-</p>
+![Metrics](./metrics.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" alt="top languages" />
