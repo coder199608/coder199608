@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: "0 0 * * *" # 每天 00:00 UTC 自动更新
   workflow_dispatch: # 支持手动触发
+  push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
