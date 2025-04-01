@@ -12,12 +12,6 @@
 
 ---
 
-## 📊 我的 GitHub 动态
-
-![Metrics](./metrics.svg)
-
----
-
 ## 🧠 关于我 | About Me
 
 ### 中文版介绍
@@ -49,6 +43,12 @@
 🛠 Services: Assignments / Labs / Projects / Capstones / Interview prep  
 🎯 Student wins: 326 Distinctions | 47 First-Class dissertations | 12 in FAANG  
 📲 DM me on WeChat to get the “Programming Thinking Booster Guide”
+
+---
+
+## 📊 我的 GitHub 动态
+
+<p align="center"><img src="./metrics.svg" alt="Metrics" width="400"></p>
 
 ---
 
