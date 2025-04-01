@@ -1,7 +1,7 @@
 <!-- GitHub banner / 微信二维码区域 -->
 <p align="center">
-  <img src="your_avatar.png" width="100" alt="avatar">
-  <img src="wechat_qr.png" width="120" alt="WeChat QR" title="扫码加我微信">
+  <img src="./images/avatar.jpg" width="120" alt="avatar">
+  <img src="./images/wechat_qr.png" width="120" alt="WeChat QR" title="扫码加我微信">
 </p>
 
 <h1 align="center">🔥 6年全栈工程师 | 留学生编程导师 | 800+无差评</h1>
@@ -62,15 +62,15 @@
 
 ### 🎴 Ortalab Poker Scoring Engine (Rust)
 <p align="center">
-  <img src="project_banner.png" width="600" alt="Ortalab Scoring Engine Banner" />
+  <img src="./images/banner.png" width="600" alt="Ortalab Scoring Engine Banner" />
   <br />
-  <img src="ortolab_test_passed.png" width="400" alt="All tests passed screenshot" />
+  <img src="./images/screenshot.png" width="400" alt="All tests passed screenshot" />
 </p>
 
 ---
 
 ## 📬 联系我 Contact
 
-📍 微信 WeChat：`your_wechat_id_here`  
-📧 邮箱 Email：`your_email@example.com`  
+📍 微信 WeChat：`coder199608`  
+📧 邮箱 Email：`bchengzhimei@163.com`  
 🔒 原创保障 | 谢绝中介 | 支持平台担保
